@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -67,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0443-string-compression) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
