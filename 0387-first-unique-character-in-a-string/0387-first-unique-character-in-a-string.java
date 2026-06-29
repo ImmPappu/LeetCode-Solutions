@@ -9,11 +9,9 @@ class Solution {
        for(int i = 0; i < s.length(); i++){
           char ch = s.charAt(i);
            if (arr[ch -'a']==1){
-            for(int j=0;j<s.length();j++){
-                if(s.charAt(j)==ch){
-                    return j;
+                if(s.charAt(i)==ch){
+                    return i;
                 }
-            }
        }
        }
        return -1 ;
