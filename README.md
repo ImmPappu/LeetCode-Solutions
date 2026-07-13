@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0238-product-of-array-except-self](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -131,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
