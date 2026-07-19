@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
