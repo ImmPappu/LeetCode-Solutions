@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0268-missing-number) |
