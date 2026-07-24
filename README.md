@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -211,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
