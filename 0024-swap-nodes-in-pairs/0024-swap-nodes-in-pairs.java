@@ -9,7 +9,6 @@
  * }
  */
 class Solution { 
-   
     public ListNode swapPairs(ListNode head) {
         ListNode curr = head;
         while(curr!=null && curr.next!=null){
