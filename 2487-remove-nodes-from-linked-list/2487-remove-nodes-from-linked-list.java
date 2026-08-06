@@ -13,14 +13,10 @@ class Solution {
             Stack<ListNode> st = new Stack<>();
             ListNode temp = head;
             while(temp!=null){
-                if(st.size()==0) st.push(temp);
-                else if (st.peek().val >= temp.val) st.push(temp);
-                else {
-                     while ( st.size()>0 &&st.peek().val < temp.val ){
+                 while ( st.size()>0 &&st.peek().val < temp.val ){
                      st.pop();      
                     } 
-                    st.push(temp); 
-                }
+                    st.push(temp);
                 temp = temp.next;
             }
             ListNode t = null;
