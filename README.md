@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
