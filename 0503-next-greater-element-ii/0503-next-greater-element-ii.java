@@ -11,6 +11,7 @@ class Solution {
                 if(st.size()==0)  nge[i] = -1;
                 else nge[i] = st.peek();
                 st.push(arr[i]);
+
         }
         return nge;
     }
