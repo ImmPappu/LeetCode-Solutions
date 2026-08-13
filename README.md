@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Linked List
 |  |
 | ------- |
