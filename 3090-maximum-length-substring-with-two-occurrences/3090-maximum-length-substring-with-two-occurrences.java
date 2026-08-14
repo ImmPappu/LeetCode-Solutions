@@ -9,8 +9,8 @@ class Solution {
         freq[index]++;
 
         while(freq[index]>2){
-            freq[s.charAt(i)- 'a']--;
-            i++;
+            freq[s.charAt(i)- 'a']--;  // jis index ki freq 2 se jyda hai uski kam kareneg 
+            i++;                       // i =0 ,s[0] = b , b-a =1 i.e freq[1]--
         }
             max=Math.max(max,j-i+1);
         }
