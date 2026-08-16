@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -99,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
@@ -351,20 +355,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
