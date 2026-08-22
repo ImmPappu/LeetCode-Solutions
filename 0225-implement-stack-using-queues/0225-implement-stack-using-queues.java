@@ -1,39 +1,35 @@
 class MyStack {
     Queue <Integer> q = new LinkedList<>();
-    Queue <Integer> q2 = new LinkedList<>();
     public MyStack() {
-        
     }
-    
     public void push(int x) {
         q.add(x);
-        
-       
+        for(int i=1;i<=q.size()-1;i++){
+            q.add(q.remove());
+        }
     }
-    
     public int pop() {
-        while(q.size()>1){
-            q2.add(q.remove());
-        }
-        int front = q.remove();
-        while(q2.size()>0){
-            q.add(q2.remove());
-        }
-        return front;
-       
+       return q.remove();
     }
-    
     public int top() {
-        while(q.size()>1){
-            q2.add(q.remove());
-        }
-        int front = q.peek();
-        q2.add(q.remove());
-        while(q2.size()>0){
-            q.add(q2.remove());
-        }
-        return front;
+        return q.peek();
     }
+    // public int pop() {
+    //     int n = q.size();
+    //     for(int i=1;i<=n-1;i++){
+    //         q.add(q.remove());
+    //     }
+    //    return q.remove();
+    // }
+    // public int top() {
+    //     int n = q.size();
+    //     for(int i=1;i<=n-1;i++){
+    //         q.add(q.remove());
+    //     }
+    //     int p = q.peek();
+    //     q.add(q.remove()); //important
+    //     return p;
+    // }
     public boolean empty() {
         return (q.size()==0);
     }
