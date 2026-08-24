@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1539-kth-missing-positive-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1140-stone-game-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
