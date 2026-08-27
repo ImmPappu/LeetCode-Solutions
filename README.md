@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3310-remove-methods-from-project](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Doubly-Linked List
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -440,8 +442,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
