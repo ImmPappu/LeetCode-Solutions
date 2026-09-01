@@ -15,19 +15,19 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-         ArrayList<TreeNode> arr = new ArrayList<>();
-        dfs(root, arr);
-        for(int i =1;i<arr.size();i++){
-            arr.get(i-1).right=arr.get(i);
-            arr.get(i-1).left=null;
-            arr.get(arr.size()-1).left=null;
-            arr.get(arr.size()-1).right=null;
-        }
+        if(root==null)return;
+        TreeNode lst = root.left;
+        TreeNode rst = root.right;
+       
+        root.left=null;
+        root.right=null;
+       
+        flatten(lst);
+        flatten(rst);
+      
+        root.right=lst;
+        TreeNode last = root;   //Ye list ke last ka element hoga
+        while(last.right!=null) last=last.right;
+        last.right=rst;
     }
-    public static void dfs(TreeNode root , ArrayList<TreeNode> arr){
-        if(root==null) return;
-        arr.add(root);
-        dfs(root.left ,arr);
-        dfs(root.right,arr);
-    }    
 }
