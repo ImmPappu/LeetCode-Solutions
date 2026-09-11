@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Minimax
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -538,5 +543,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
