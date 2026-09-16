@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2670-find-the-distinct-difference-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2670-find-the-distinct-difference-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
