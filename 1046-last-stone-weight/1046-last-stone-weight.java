@@ -8,10 +8,7 @@ class Solution {
         while(pq.size()>1){
             int a = pq.remove();
             int b = pq.remove();
-            if(a!=b){ 
-                int diff = Math.abs(a-b);
-                pq.add(diff);
-            }
+            if(a!=b)pq.add(a-b);
         }
         return pq.isEmpty() ? 0 : pq.peek();
     }
