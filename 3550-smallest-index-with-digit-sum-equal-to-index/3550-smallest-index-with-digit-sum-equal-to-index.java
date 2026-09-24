@@ -8,7 +8,7 @@ class Solution {
                 sum += dig;
                 n = n/10;
             }
-            if(i==sum) return i;
+            if(sum==i) return i;
         }
     return -1;
     }
