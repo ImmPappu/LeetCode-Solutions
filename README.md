@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
