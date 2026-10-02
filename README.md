@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Matrix
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Queue
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3174-clear-digits) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
