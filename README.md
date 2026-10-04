@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0861-score-after-flipping-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0861-score-after-flipping-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0861-score-after-flipping-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
