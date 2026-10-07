@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1539-kth-missing-positive-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1598-crawler-log-folder](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
