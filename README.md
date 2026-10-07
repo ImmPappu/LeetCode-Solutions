@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
