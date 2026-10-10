@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -752,4 +753,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
