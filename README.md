@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0078-subsets) |
