@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ImmPappu/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
