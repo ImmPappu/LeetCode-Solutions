@@ -1,5 +1,5 @@
 class Solution {
-    public int findMaxConsecutiveOnes(int[] nums) {   
+    public int findMaxConsecutiveOnes(int[] nums) {
         int maxcount = 0;
         Stack<Integer> st = new Stack();
         for(int i=0;i<nums.length;i++){
